@@ -1,8 +1,23 @@
 # 유배지 생존기  
 Unity 기반 3D 생존 시뮬레이션 게임 – 선비를 지켜 3일을 살아남아라!
 
----
 
+
+<img src="https://github.com/user-attachments/assets/498d5ba5-0286-4408-92d1-914977265edc" width="1080">
+
+---
+## 인게임 이미지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9264a84d-4a14-4a90-b2f9-25a5620a915a" width="450">
+  <img  src="https://github.com/user-attachments/assets/513e9604-3720-4029-9d66-78dd8edf56e6" width="450">
+</p>
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/fa5cbd1c-3df0-4160-a46c-d16f4f4f42c8" width="450">
+  <img src="https://github.com/user-attachments/assets/701247eb-5bae-4cd4-ab57-dae024fed3da" width="450">
+</p>
+
+
+---
 ## 목차  
 - 프로젝트 개요  
 - 게임 소개  
@@ -168,8 +183,4 @@ Unity 기반 3D 생존 시뮬레이션 게임 – 선비를 지켜 3일을 살�
 - **인벤토리 조합 실패**: ID 기반 조합식 처리 로직 수정  
 - **씬 전환 시 초기화 문제**: DontDestroyOnLoad 구조 개선 및 UI 초기화 분리  
 
----
 
-## 시연 자료  
-
-- (스크린샷 및 시연 영상 첨부 예정)
